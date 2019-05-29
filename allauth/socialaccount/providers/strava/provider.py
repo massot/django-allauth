@@ -1,5 +1,5 @@
 """
-Provider for Patreon
+Provider for Strava
 """
 from allauth.socialaccount.providers.base import ProviderAccount
 from allauth.socialaccount.providers.oauth2.provider import OAuth2Provider
